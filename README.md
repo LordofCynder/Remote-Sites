@@ -1,4 +1,3 @@
 # Remote-Sites
 
-Public Repository for owners and devs around the world.
-Exceptional codes from exceptional web pages. Here, you can do your destiny.
+Public Repository to explore new files as well testing all all of them.
